@@ -1,7 +1,6 @@
 # Django eCommerce website
 
-Basic django eCommerce website with checkout guest checkout and paypal integration
-
+Basic django eCommerce website
 Installation:
 
 1. Clone repo: `git clone <repo_url>`
