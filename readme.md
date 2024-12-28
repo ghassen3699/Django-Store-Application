@@ -1,4 +1,4 @@
-# Django eCommerce website
+# Django Store Application (TEK-UP)
 
 Basic django eCommerce website
 Installation:
